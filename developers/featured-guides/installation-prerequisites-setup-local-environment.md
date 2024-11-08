@@ -41,7 +41,7 @@ Provided is a step-by-step instructions for installing Rust on both macOS and Wi
 
 [`https://rustup.rs/`](https://rustup.rs/)
 
-2. Run the downloaded ‘r`ustup-init.exe`’ file. This will open a Command Prompt-like interface.
+2. Run the downloaded ‘`rustup-init.exe`’ file. This will open a Command Prompt-like interface.
 3. Follow the on-screen instructions:
 
 Press **Enter** to start the installation.
